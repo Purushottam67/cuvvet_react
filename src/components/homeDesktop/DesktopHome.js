@@ -1,6 +1,7 @@
 import React from 'react'
 import "./DesktopHome.css"
-import home from "../../assets/home.png"
+
+import home from "../../assets/icons/home.png"
 import lock from "../../assets/icons/lock.png"
 
 function DesktopHome() {

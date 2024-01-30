@@ -3,7 +3,8 @@ import { useNavigate } from "react-router-dom";
 import "./NotesMobilePage.css";
 import enter from "../../assets/icons/enter.png";
 import back from "../../assets/icons/back.png";
-import home from "../../assets/home.png";
+
+import home from "../../assets/icons/home.png"
 import MobileNotesContent from "../notesContentMobile/MobileNotesContent";
 import usePocketContext from "../../hooks/usePocketContext";
 

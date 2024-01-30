@@ -10,9 +10,9 @@
 }
 
 .desktop__home > img {
-    margin-top: 25vh;
-    width: 35vw;
-    height: 35vh;
+    margin: top 2px;;
+    width: 20;
+    height: 20;
 }
 
 .desktop__home > h1,p {

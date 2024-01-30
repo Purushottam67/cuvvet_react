@@ -10,12 +10,7 @@
   text-align: left;
 }
 
-.desktop__sidebar__create__notes__btn {
-  height: 11vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+
 
 .desktop__popup__overlay {
   position: fixed;
